@@ -1,0 +1,15 @@
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\bin\Debug\net6.0\Exampel001_HelloWorld.exe
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\bin\Debug\net6.0\Exampel001_HelloWorld.deps.json
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\bin\Debug\net6.0\Exampel001_HelloWorld.runtimeconfig.json
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\bin\Debug\net6.0\Exampel001_HelloWorld.dll
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\bin\Debug\net6.0\Exampel001_HelloWorld.pdb
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\obj\Debug\net6.0\Exampel001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\obj\Debug\net6.0\Exampel001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\obj\Debug\net6.0\Exampel001_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\obj\Debug\net6.0\Exampel001_HelloWorld.AssemblyInfo.cs
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\obj\Debug\net6.0\Exampel001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\obj\Debug\net6.0\Exampel001_HelloWorld.dll
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\obj\Debug\net6.0\refint\Exampel001_HelloWorld.dll
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\obj\Debug\net6.0\Exampel001_HelloWorld.pdb
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\obj\Debug\net6.0\Exampel001_HelloWorld.genruntimeconfig.cache
+C:\Users\nastya\Desktop\HelloC\Exampels\Exampel001_HelloWorld\obj\Debug\net6.0\ref\Exampel001_HelloWorld.dll
